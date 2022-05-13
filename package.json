@@ -1,0 +1,29 @@
+{
+    "name": "nftbox",
+    "author": "Nicodemus",
+    "description": "a practice for freeCampCode backend.",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "ejs": "^3.1.2",
+        "express": "^4.18.1",
+        "node-fetch": "^3.2.4",
+        "cheerio": "^1.0.0-rc.10",
+        "dotenv": "^8.2.0",
+        "mongoose": "^6.3.3"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NicodemusDu/FreeCodeCamp-NPM.git"
+    },
+    "keywords": [
+        "freecodecamp",
+        "practice",
+        "mongoDB",
+        "nodejs"
+    ]
+}
