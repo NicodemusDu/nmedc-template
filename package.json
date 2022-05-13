@@ -18,12 +18,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/NicodemusDu/FreeCodeCamp-NPM.git"
+        "url": "https://github.com/NicodemusDu/nmedc-template.git"
     },
     "keywords": [
-        "freecodecamp",
-        "practice",
         "mongoDB",
-        "nodejs"
+        "mongo-express",
+        "nodejs",
+        "express"
     ]
 }
